@@ -1,5 +1,7 @@
 ### Olá eu sou Joel, desenvolvedor Web! 
 
+![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=joelslayer&show_icons=true&theme=radical)
+
 ## Tecnologias que uso no meu dia-a-dia!
 <div style="display:flex">
     <img alt='HTML-5' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
