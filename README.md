@@ -1,6 +1,6 @@
 ### Olá eu sou Joel, desenvolvedor Web! 
 
-![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=joelslayer&show_icons=true&theme=radical)
+![Joel GitHub stats](https://github-readme-stats.vercel.app/api?username=joelslayer&show_icons=true&theme=radical)
 
 ## Tecnologias que uso no meu dia-a-dia!
 <div style="display:flex">
