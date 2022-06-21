@@ -1,4 +1,5 @@
-### Olá eu sou Joel, desenvolvedor Web! 
+### Olá eu sou Joel, desenvolvedor Web! ![image](https://user-images.githubusercontent.com/41908572/174787365-3d27d364-6d7e-4aaf-bf4e-f609c5f93269.png)
+
 
 ![Joel GitHub stats](https://github-readme-stats.vercel.app/api?username=joelslayer&show_icons=true&theme=radical)
 
