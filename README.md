@@ -16,3 +16,5 @@
     <img alt='MYSQL' src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'>
     <img alt='MONGODB' src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>    
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelslayer)](https://github.com/joelslayer/github-readme-stats)
